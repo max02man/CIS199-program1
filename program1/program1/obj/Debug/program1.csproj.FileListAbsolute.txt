@@ -1,0 +1,18 @@
+c:\users\max man\documents\visual studio 2012\Projects\program1\program1\bin\Debug\program1.exe.config
+c:\users\max man\documents\visual studio 2012\Projects\program1\program1\bin\Debug\program1.exe
+c:\users\max man\documents\visual studio 2012\Projects\program1\program1\bin\Debug\program1.pdb
+c:\users\max man\documents\visual studio 2012\Projects\program1\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache
+c:\users\max man\documents\visual studio 2012\Projects\program1\program1\obj\Debug\program1.Properties.Resources.resources
+c:\users\max man\documents\visual studio 2012\Projects\program1\program1\obj\Debug\program1.csproj.GenerateResource.Cache
+c:\users\max man\documents\visual studio 2012\Projects\program1\program1\obj\Debug\program1.exe
+c:\users\max man\documents\visual studio 2012\Projects\program1\program1\obj\Debug\program1.pdb
+C:\Users\MAX MAN\Documents\Visual Studio 2012\Projects\program1\program1\obj\Debug\program1.program1.resources
+C:\Users\a0haws01\Desktop\program1\program1\program1\bin\Debug\program1.exe.config
+C:\Users\a0haws01\Desktop\program1\program1\program1\obj\Debug\program1.exe
+C:\Users\a0haws01\Desktop\program1\program1\program1\obj\Debug\program1.pdb
+C:\Users\a0haws01\Desktop\program1\program1\program1\bin\Debug\program1.exe
+C:\Users\a0haws01\Desktop\program1\program1\program1\bin\Debug\program1.pdb
+C:\Users\a0haws01\Desktop\program1\program1\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache
+C:\Users\a0haws01\Desktop\program1\program1\program1\obj\Debug\program1.program1.resources
+C:\Users\a0haws01\Desktop\program1\program1\program1\obj\Debug\program1.Properties.Resources.resources
+C:\Users\a0haws01\Desktop\program1\program1\program1\obj\Debug\program1.csproj.GenerateResource.Cache
